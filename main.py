@@ -15,5 +15,5 @@ song_info_list = soup.findAll(name="div", class_="o-chart-results-list-row-conta
 song_names = [song_info.find(name="li", class_="lrv-u-width-100p").find(name="h3").get_text(strip=True) for song_info in song_info_list]
 artist_names = [song_info.find(name="li", class_="lrv-u-width-100p").find(name="span").get_text(strip=True) for song_info in song_info_list]
 
-print(song_names)
-print(artist_names)
+print(f"The length of song_name is {len(song_names)}")
+print(f"The length of artist_names is {len(artist_names)}")
