@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e0eaa5e-dcb1-40ae-b610-34fd6f55e5e0" name="Changes" comment="The playlist has been created based on a year">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="2e0eaa5e-dcb1-40ae-b610-34fd6f55e5e0" name="Changes" comment="Corrections after feedback">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,14 +37,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/cavs1/Desktop/Programming/Python_Udemy/100_Spotify/main.py&quot;,
-    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/cavs1/Desktop/Programming/Python_Udemy/100_Spotify/main.py&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/cavs1/Desktop/Programming/Python_Udemy/100_Spotify/images",
+    "two.files.diff.last.used.file": "C:/Users/cavs1/Desktop/Programming/Python_Udemy/100_Spotify/main.py"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="100_Spotify" />
@@ -158,7 +159,21 @@
       <option name="project" value="LOCAL" />
       <updated>1700615512268</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Corrections afetr feedback">
+      <created>1700616998992</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1700616998992</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Corrections after feedback">
+      <created>1700617015046</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1700617015046</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,6 +206,8 @@
     <MESSAGE value="Web scrape given a date" />
     <MESSAGE value="Checking that the length of the list are the same" />
     <MESSAGE value="The playlist has been created based on a year" />
-    <option name="LAST_COMMIT_MESSAGE" value="The playlist has been created based on a year" />
+    <MESSAGE value="Corrections afetr feedback" />
+    <MESSAGE value="Corrections after feedback" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrections after feedback" />
   </component>
 </project>
